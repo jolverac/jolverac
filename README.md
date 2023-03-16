@@ -1,4 +1,4 @@
-## Greetings
+### Greetings,
 
 My name is Jorge Olvera, from Guanajuato, México. I have a Bachelor's in International Trade, and I'm currently improving my data analysis skills, focusing on Python, SQL, Power BI, and Microsoft Excel.
 
