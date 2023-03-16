@@ -8,4 +8,4 @@ I want to get my first job in the Data Analytics field.
 
 Mail: jolverac95@gmail.com
 
-LinkedIn: linkedin.com/in/jolverac/
+[LinkedIn](https://linkedin.com/in/jolverac/)
