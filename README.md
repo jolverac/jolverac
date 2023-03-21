@@ -2,7 +2,7 @@ Hi!
 
 My name is Jorge Olvera, and I'm a data analyst from Guanajuato, México. I hold a Bachelor's degree in International Trade and have been focusing on improving my data analysis skills, particularly in Python, SQL, Power BI, and Microsoft Excel.
 
-I have experience in analyzing data and generating insights that drive business decisions. My projects include customer churn analysis, sales forecasting, and business performance tracking dashboards. I am eager to apply my skills in a professional setting and grow in the data analytics field.
+I have experience in analyzing data and generating insights that drive business decisions. I am eager to apply my skills in a professional setting and grow in the data analytics field.
 
 Please feel free to check out my [Portfolio](https://github.com/jolverac/Data-Analyst-Portfolio) to learn more about my work and skills.
 
