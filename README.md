@@ -1,6 +1,6 @@
 Hi!
 
-My name is Jorge Olvera, and I'm a data analyst from Guanajuato, México. I hold a Bachelor's degree in International Trade and have been focusing on improving my data analysis skills, particularly in Jupyter Notebook, Power BI, Python, SQL, and Microsoft Excel.
+My name is Jorge Olvera, and I'm a data analyst from Guanajuato, México. I hold a Bachelor's degree in International Trade and have been focusing on improving my data analysis skills, particularly in Python (Jupyter Notebook), Power BI, SQL, and Microsoft Excel.
 
 I have experience in analyzing data and generating insights that drive business decisions. I am eager to apply my skills in a professional setting and grow in the data analytics field.
 
